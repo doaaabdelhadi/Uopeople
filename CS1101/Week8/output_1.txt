@@ -1,0 +1,7 @@
+Dict from input_file::  {'A': 'l', 'B': 'm', 'C': 'l', 'D': 'n', 'E': 'o', 'F': 'm'}
+invert_dict::  {'l': ['A', 'C'], 'm': ['B', 'F'], 'n': ['D'], 'o': ['E']}
+Output file:: 
+l:['A', 'C']
+m:['B', 'F']
+n:['D']
+o:['E']
