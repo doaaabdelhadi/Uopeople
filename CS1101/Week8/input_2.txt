@@ -1,0 +1,6 @@
+f_name:['A', 'B', 'C', 'B', 'C']
+l_name:['B', 'M', 'D']
+age:[10, 15, 15, 12]
+n_name:['L', 'M', 'N', 'O']
+School:['H', 'S', 'P']
+City:['A_B', 'C_D', 'L_M', 'A_B']
