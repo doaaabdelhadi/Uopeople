@@ -1,0 +1,4 @@
+Course Description: 
+
+This course introduces the fundamental concepts necessary for designing, using and implementing database systems. 
+We stress the fundamentals of database modeling and design, relational theory and the Structured Query Language (SQL).
